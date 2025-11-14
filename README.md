@@ -5,6 +5,7 @@ Pure-Python driver and front panel GUI for the **BK Precision 2831E** bench DMM.
 It talks SCPI over RS-232/USB (CP210x bridge), handles some of the meter’s quirks (echoed commands, garbage lines, wedged USB links), and provides a simple desktop UI with dedicated buttons for each function.
 
 ---
+<img width="762" height="462" alt="image" src="https://github.com/user-attachments/assets/419178dc-30ed-467f-b409-104769e6f063" />
 
 ## Features
 
